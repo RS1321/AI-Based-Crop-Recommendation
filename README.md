@@ -55,4 +55,4 @@ npm start
 
 The app will launch at http://localhost:3000.
 
-Made with by Rahul
+Made by Rahul
